@@ -16,5 +16,4 @@ heroText = "We Love <br> Delicious Foods !"
 footerText = "This area supports HTML code. Text can be edited with <code>footerText</code> value in config.toml"
 facebook = "https://facebook.com"
 twitter = "https://twitter.com"
-instagram = "https://instagram.com"
 
