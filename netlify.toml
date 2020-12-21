@@ -1,0 +1,7 @@
+[build]
+  publish = "exampleSite/"
+  command = "hugo --gc --minify"
+
+[build.environment]
+  HUGO_VERSION = "0.71.1"
+  HUGO_THEME = "Resto Hugo"
