@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://dazzling-hamilton-ef30b5.netlify.app/"
 languageCode = "en-us"
 title = "Resto Hugo - Port of resto theme for hugo"
 theme = "resto-hugo"
